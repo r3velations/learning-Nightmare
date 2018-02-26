@@ -1,0 +1,19 @@
+{
+  "name": "learning-nightmare",
+  "version": "1.0.0",
+  "description": "- This is just something I thought would be fun.\r - The Github page for Nightmare has a great example, so I figured I would give it a shot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomLendy/learning-Nightmare.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomLendy/learning-Nightmare/issues"
+  },
+  "homepage": "https://github.com/tomLendy/learning-Nightmare#readme"
+}
