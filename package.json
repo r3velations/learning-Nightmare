@@ -21,7 +21,8 @@
     "url": "https://github.com/tomLendy/learning-Nightmare/issues"
   },
   "homepage": "https://github.com/tomLendy/learning-Nightmare#readme",
-  "dependencies": {
-    "nightmare": "^2.10.0"
+  "dependencies": {},
+  "devDependencies": {
+    "nightmare": "^3.0.1"
   }
 }
